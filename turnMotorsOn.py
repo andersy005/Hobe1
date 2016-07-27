@@ -24,7 +24,7 @@ GPIO.output(Motor1A, GPIO.LOW)
 GPIO.output(Motor1B, GPIO.HIGH)
 GPIO.output(Motor1E, GPIO.HIGH)
 
-sleep(5)  # turn the motors for 10 seconds then turn them off again.
+sleep(5)  # turn the motors for 5 seconds then turn them off again.
 
 print "Stopping motor"
 GPIO.output(Motor1E, GPIO.LOW)
