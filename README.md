@@ -1,1 +1,1 @@
-# Probability and Statistics with Python
+# Building Python Data Applications: with Blaze and Bokeh
